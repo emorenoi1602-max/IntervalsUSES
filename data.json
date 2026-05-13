@@ -2,995 +2,1243 @@
   "agents": [
     {
       "ulp": "ATLCOLBAQ333",
-      "name": "Alberto Barrios"
+      "name": "Alberto Barrios",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ304",
-      "name": "Alberto Miranda"
+      "name": "Alberto Miranda",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ241",
-      "name": "Alberto Miranda"
+      "name": "Alberto Miranda",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ187",
-      "name": "Alejandra Maury"
+      "name": "Alejandra Maury",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ349",
-      "name": "Alejandra Morales"
+      "name": "Alejandra Morales",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ332",
-      "name": "Alex Urueta"
+      "name": "Alex Urueta",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ329",
-      "name": "Alicia Troconis"
+      "name": "Alicia Troconis",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ84",
-      "name": "Ana"
+      "name": "Ana",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ114",
-      "name": "Ana Robles"
+      "name": "Ana Robles",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ197",
-      "name": "Andrea Alcazar"
+      "name": "Andrea Alcazar",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ154",
-      "name": "Andrea Hernández"
+      "name": "Andrea Hernández",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ295",
-      "name": "Andrea Mendez"
+      "name": "Andrea Mendez",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ61",
-      "name": "Andrea Orozco"
+      "name": "Andrea Orozco",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ85",
-      "name": "Andres"
+      "name": "Andres",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ146",
-      "name": "Andres Ruiz"
+      "name": "Andres Ruiz",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ314",
-      "name": "Andrés Ruíz"
+      "name": "Andrés Ruíz",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ339",
-      "name": "Angelo Jesus"
+      "name": "Angelo Jesus",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ139",
-      "name": "Angie Anaya"
+      "name": "Angie Anaya",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ198",
-      "name": "Angie Villanueva"
+      "name": "Angie Villanueva",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ172",
-      "name": "Atlcolbaq172"
+      "name": "Atlcolbaq172",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ225",
-      "name": "Atlcolbaq225"
+      "name": "Atlcolbaq225",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ227",
-      "name": "Atlcolbaq227"
+      "name": "Atlcolbaq227",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ228",
-      "name": "Atlcolbaq228"
+      "name": "Atlcolbaq228",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ230",
-      "name": "Atlcolbaq230"
+      "name": "Atlcolbaq230",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ48",
-      "name": "Atlcolbaq48"
+      "name": "Atlcolbaq48",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ49",
-      "name": "Atlcolbaq49"
+      "name": "Atlcolbaq49",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ73",
-      "name": "Brandon Zabaleta"
+      "name": "Brandon Zabaleta",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ82",
-      "name": "Breither"
+      "name": "Breither",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ226",
-      "name": "Breyner Gonzalez"
+      "name": "Breyner Gonzalez",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ240",
-      "name": "Camilo Salgado"
+      "name": "Camilo Salgado",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ236",
-      "name": "Camilo Tapia"
+      "name": "Camilo Tapia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ93",
-      "name": "Carlos"
+      "name": "Carlos",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ308",
-      "name": "Carlos Atencio"
+      "name": "Carlos Atencio",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ147",
-      "name": "Carlos Atencio"
+      "name": "Carlos Atencio",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ343",
-      "name": "Carlos Marquez"
+      "name": "Carlos Marquez",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ344",
-      "name": "Carlos Ortega"
+      "name": "Carlos Ortega",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ119",
-      "name": "Carmen Herrera"
+      "name": "Carmen Herrera",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ144",
-      "name": "Celia Bobadillo"
+      "name": "Celia Bobadillo",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ158",
-      "name": "Cesar Albino"
+      "name": "Cesar Albino",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ266",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ135",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ270",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ276",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ237",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ156",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ275",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ263",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ268",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ257",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ206",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ288",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ166",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ284",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ254",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ277",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ281",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ249",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ258",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ282",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ246",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ202",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ285",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ177",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ251",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ149",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ255",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ290",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ289",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ256",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ280",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ253",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ70",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ287",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ271",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ267",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ208",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ260",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ264",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ186",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ199",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ53",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ244",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ165",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ245",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ162",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ164",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ269",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ233",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ279",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ252",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ157",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ291",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ72",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ278",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ259",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ242",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ274",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ272",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ262",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ67",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ207",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ189",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ250",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ173",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ283",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ235",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ273",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ210",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ238",
-      "name": "Colombia"
+      "name": "Colombia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ328",
-      "name": "Cristian Betancourt"
+      "name": "Cristian Betancourt",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ318",
-      "name": "Cristina Vargas"
+      "name": "Cristina Vargas",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ191",
-      "name": "Cristina Vargas"
+      "name": "Cristina Vargas",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ163",
-      "name": "Daina Pertuz"
+      "name": "Daina Pertuz",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ117",
-      "name": "Daniel Garces"
+      "name": "Daniel Garces",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ338",
-      "name": "Daniela Mozo"
+      "name": "Daniela Mozo",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ175",
-      "name": "Daniela Rodriguez"
+      "name": "Daniela Rodriguez",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ111",
-      "name": "Daniela Tovar"
+      "name": "Daniela Tovar",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ55",
-      "name": "Danitza Restrepo"
+      "name": "Danitza Restrepo",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ30",
-      "name": "Danna Tobar"
+      "name": "Danna Tobar",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ60",
-      "name": "Dayana Diaz"
+      "name": "Dayana Diaz",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ113",
-      "name": "Dayanna Saumeth"
+      "name": "Dayanna Saumeth",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ155",
-      "name": "Diana Rojas"
+      "name": "Diana Rojas",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ212",
-      "name": "Dianelys Fontalvo"
+      "name": "Dianelys Fontalvo",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ57",
-      "name": "Diego Reyes"
+      "name": "Diego Reyes",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ309",
-      "name": "Edgardo Garrido"
+      "name": "Edgardo Garrido",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ142",
-      "name": "Edgardo Garrido"
+      "name": "Edgardo Garrido",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ148",
-      "name": "Elena Olivera"
+      "name": "Elena Olivera",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ194",
-      "name": "Elizabeth Rodríguez"
+      "name": "Elizabeth Rodríguez",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ296",
-      "name": "Emmanuel León"
+      "name": "Emmanuel León",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ334",
-      "name": "Erilyn Barrios"
+      "name": "Erilyn Barrios",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ239",
-      "name": "Estefany Salinas"
+      "name": "Estefany Salinas",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ190",
-      "name": "Estiven Pizarro"
+      "name": "Estiven Pizarro",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ159",
-      "name": "Everlin Moreno"
+      "name": "Everlin Moreno",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ325",
-      "name": "Fabián Berrio"
+      "name": "Fabián Berrio",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ59",
-      "name": "Frank Caña"
+      "name": "Frank Caña",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ331",
-      "name": "Gardenia Fontalvo"
+      "name": "Gardenia Fontalvo",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ136",
-      "name": "Genesis Alvarino"
+      "name": "Genesis Alvarino",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ120",
-      "name": "Genesis Velez"
+      "name": "Genesis Velez",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ179",
-      "name": "Geraldine Pacheco"
+      "name": "Geraldine Pacheco",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ145",
-      "name": "Ginna Muñoz"
+      "name": "Ginna Muñoz",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ346",
-      "name": "Giovanna Hernández"
+      "name": "Giovanna Hernández",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ116",
-      "name": "Gladys Angarita"
+      "name": "Gladys Angarita",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ137",
-      "name": "Gretty Escalante"
+      "name": "Gretty Escalante",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ141",
-      "name": "Grissel Angarita"
+      "name": "Grissel Angarita",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ121",
-      "name": "Guillermo Castro"
+      "name": "Guillermo Castro",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ347",
-      "name": "Henry Jesus"
+      "name": "Henry Jesus",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ54",
-      "name": "Icheel Martinez"
+      "name": "Icheel Martinez",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ20",
-      "name": "Isaac Martinez"
+      "name": "Isaac Martinez",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ62",
-      "name": "Janeydis Julio"
+      "name": "Janeydis Julio",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ243",
-      "name": "Javier Peña"
+      "name": "Javier Peña",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ306",
-      "name": "Jean Chavez"
+      "name": "Jean Chavez",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ234",
-      "name": "Jean Chavez"
+      "name": "Jean Chavez",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ337",
-      "name": "Jessaint Escorcia"
+      "name": "Jessaint Escorcia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ35",
-      "name": "Jesus Dominguez"
+      "name": "Jesus Dominguez",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ47",
-      "name": "Jhonatan"
+      "name": "Jhonatan",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ229",
-      "name": "Jhonier Ferrer"
+      "name": "Jhonier Ferrer",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ184",
-      "name": "Jhoseth Pardo"
+      "name": "Jhoseth Pardo",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ232",
-      "name": "Joan Rudas"
+      "name": "Joan Rudas",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ33",
-      "name": "Johaine Oro"
+      "name": "Johaine Oro",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ345",
-      "name": "Johannys Padilla"
+      "name": "Johannys Padilla",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ320",
-      "name": "Johelis Barragan"
+      "name": "Johelis Barragan",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ307",
-      "name": "José Herrera"
+      "name": "José Herrera",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ205",
-      "name": "Juan Aldana"
+      "name": "Juan Aldana",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ319",
-      "name": "Juan Calderón"
+      "name": "Juan Calderón",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ301",
-      "name": "Juan Puello"
+      "name": "Juan Puello",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ97",
-      "name": "Julia"
+      "name": "Julia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ335",
-      "name": "Karina Bolivar"
+      "name": "Karina Bolivar",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ123",
-      "name": "Katrini Berrio"
+      "name": "Katrini Berrio",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ143",
-      "name": "Kelly Ricardo"
+      "name": "Kelly Ricardo",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ200",
-      "name": "Laidys Carmen"
+      "name": "Laidys Carmen",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ31",
-      "name": "Laudy Villar"
+      "name": "Laudy Villar",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ152",
-      "name": "Lauren Ospino"
+      "name": "Lauren Ospino",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ211",
-      "name": "Lina Fernandez"
+      "name": "Lina Fernandez",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ305",
-      "name": "Lina Fernández"
+      "name": "Lina Fernández",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ68",
-      "name": "Lina Muelle"
+      "name": "Lina Muelle",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ161",
-      "name": "Liseth Rojas"
+      "name": "Liseth Rojas",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ27",
-      "name": "Logan Serrano"
+      "name": "Logan Serrano",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ160",
-      "name": "Lorena Villalba"
+      "name": "Lorena Villalba",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ78",
-      "name": "Lucia"
+      "name": "Lucia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ261",
-      "name": "Luis Caballero"
+      "name": "Luis Caballero",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ298",
-      "name": "Luis Caballero"
+      "name": "Luis Caballero",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ183",
-      "name": "Luis Mercado"
+      "name": "Luis Mercado",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ91",
-      "name": "Luisa"
+      "name": "Luisa",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ315",
-      "name": "Luisa Castillo"
+      "name": "Luisa Castillo",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ302",
-      "name": "Mabelys Matute"
+      "name": "Mabelys Matute",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ209",
-      "name": "Mabelys Matute"
+      "name": "Mabelys Matute",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ77",
-      "name": "Malka Paez"
+      "name": "Malka Paez",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ182",
-      "name": "Manfred Ochoa"
+      "name": "Manfred Ochoa",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ58",
-      "name": "Manuel Morales"
+      "name": "Manuel Morales",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ83",
-      "name": "Maria"
+      "name": "Maria",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ122",
-      "name": "Maria Gaivan"
+      "name": "Maria Gaivan",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ63",
-      "name": "Maria Ibarra"
+      "name": "Maria Ibarra",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ192",
-      "name": "María Quevedo"
+      "name": "María Quevedo",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ110",
-      "name": "María Saumett"
+      "name": "María Saumett",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ185",
-      "name": "María Suarez"
+      "name": "María Suarez",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ75",
-      "name": "Mayerlinne Cerra"
+      "name": "Mayerlinne Cerra",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ326",
-      "name": "Melanie Hurtado"
+      "name": "Melanie Hurtado",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ188",
-      "name": "Melanie Peñaloza"
+      "name": "Melanie Peñaloza",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ64",
-      "name": "Michel Gil"
+      "name": "Michel Gil",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ71",
-      "name": "Michell Estrada"
+      "name": "Michell Estrada",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ348",
-      "name": "Michelle Pacheco"
+      "name": "Michelle Pacheco",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ324",
-      "name": "Miguel Aldana"
+      "name": "Miguel Aldana",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ99",
-      "name": "Milagros"
+      "name": "Milagros",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ140",
-      "name": "Mileidys García"
+      "name": "Mileidys García",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ247",
-      "name": "Mireya Mayorga"
+      "name": "Mireya Mayorga",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ293",
-      "name": "Mireya Mayorga"
+      "name": "Mireya Mayorga",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ150",
-      "name": "Naharem Quintero"
+      "name": "Naharem Quintero",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ340",
-      "name": "Nallely Hernández"
+      "name": "Nallely Hernández",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ323",
-      "name": "Nancy Pilar"
+      "name": "Nancy Pilar",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ151",
-      "name": "Nancy Rey"
+      "name": "Nancy Rey",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ40",
-      "name": "Naren Gomez"
+      "name": "Naren Gomez",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ104",
-      "name": "Naydelin Hoz"
+      "name": "Naydelin Hoz",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ231",
-      "name": "Nayelis Rodriguez"
+      "name": "Nayelis Rodriguez",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ196",
-      "name": "Nelsi Muñoz"
+      "name": "Nelsi Muñoz",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ297",
-      "name": "Nicolas Mercado"
+      "name": "Nicolas Mercado",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ204",
-      "name": "Oner Ebratt"
+      "name": "Oner Ebratt",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ300",
-      "name": "Paula Rodriguez"
+      "name": "Paula Rodriguez",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ74",
-      "name": "Paula Rodriguez"
+      "name": "Paula Rodriguez",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ316",
-      "name": "Pedro Piñeres"
+      "name": "Pedro Piñeres",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ153",
-      "name": "Raiza Trespalacios"
+      "name": "Raiza Trespalacios",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ265",
-      "name": "Ray Carlier"
+      "name": "Ray Carlier",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ299",
-      "name": "Ray Carlier"
+      "name": "Ray Carlier",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ342",
-      "name": "Ricardo Leal"
+      "name": "Ricardo Leal",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ336",
-      "name": "Roberto Cardona"
+      "name": "Roberto Cardona",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ105",
-      "name": "Rosa Jaramillo"
+      "name": "Rosa Jaramillo",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ65",
-      "name": "Ruben Carrascal"
+      "name": "Ruben Carrascal",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ76",
-      "name": "Sahory Nobman"
+      "name": "Sahory Nobman",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ88",
-      "name": "Saray"
+      "name": "Saray",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ317",
-      "name": "Sharly Salcedo"
+      "name": "Sharly Salcedo",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ195",
-      "name": "Sharly Salcedo"
+      "name": "Sharly Salcedo",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ92",
-      "name": "Shirley"
+      "name": "Shirley",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ341",
-      "name": "Stefania Medina"
+      "name": "Stefania Medina",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ138",
-      "name": "Steffanny Meja"
+      "name": "Steffanny Meja",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ98",
-      "name": "Valentina"
+      "name": "Valentina",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ176",
-      "name": "Valeria Campo"
+      "name": "Valeria Campo",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ330",
-      "name": "Valeria Gómez"
+      "name": "Valeria Gómez",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ310",
-      "name": "Vanessa Carmen"
+      "name": "Vanessa Carmen",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ178",
-      "name": "Vanessa Carmen"
+      "name": "Vanessa Carmen",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ322",
-      "name": "Viviana Padilla"
+      "name": "Viviana Padilla",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ69",
-      "name": "Wendy Bravo"
+      "name": "Wendy Bravo",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ321",
-      "name": "Wendy Pelaez"
+      "name": "Wendy Pelaez",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ118",
-      "name": "Yaklin Soto"
+      "name": "Yaklin Soto",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ29",
-      "name": "Yalilis Rodríguez"
+      "name": "Yalilis Rodríguez",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ101",
-      "name": "Yesenia"
+      "name": "Yesenia",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ292",
-      "name": "Yineth Palomino"
+      "name": "Yineth Palomino",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ37",
-      "name": "Yoladis Cabrera"
+      "name": "Yoladis Cabrera",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ115",
-      "name": "Yurleys Vizcaino"
+      "name": "Yurleys Vizcaino",
+      "market": "MX"
     },
     {
       "ulp": "ATLCOLBAQ66",
-      "name": "Yusnelis Lopez"
+      "name": "Yusnelis Lopez",
+      "market": "MX"
     }
   ],
   "daily": [
@@ -27462,5 +27710,8 @@
     "2026-03",
     "2026-04",
     "2026-05"
+  ],
+  "markets": [
+    "MX"
   ]
 }
